@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Fred Ansah
+# 🚀 Ansah Frederick Owusu
 
 ### Mobile App Developer · React Developer · Flutter Engineer · Software Engineering @ KNUST
 
@@ -68,8 +68,7 @@ https://github.com/AnsahFredd/miniproject
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,python,fastapi,firebase,mongodb,nextjs,git&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nodejs,python,fastapi,firebase,mongodb,nextjs,express,git&theme=dark)](https://skillicons.dev)
 </div>
 
 ---
