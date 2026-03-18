@@ -1,8 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Fred Ansah
+# 🚀 Fred Ansah
 
-### Software Engineer · Mobile & Full-Stack Developer · Final Year @ KNUST
+### Mobile App Developer · Flutter Engineer · Software Engineering @ KNUST
+
+<br/>
+
+![FLUTTER](https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge)
+![DEVELOPER](https://img.shields.io/badge/DEVELOPER-7c3aed?style=for-the-badge)
+![DART](https://img.shields.io/badge/DART-00B4D8?style=for-the-badge)
+![ENGINEER](https://img.shields.io/badge/ENGINEER-brightgreen?style=for-the-badge)
+![CLEAN ARCH](https://img.shields.io/badge/CLEAN%20ARCH-orange?style=for-the-badge)
+![BUILDER](https://img.shields.io/badge/BUILDER-7c3aed?style=for-the-badge)
 
 </div>
 
@@ -10,35 +19,49 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year Software Engineering student at **KNUST**, Ghana
-- 📱 Passionate about building real, scalable products in **healthcare tech**
-- 🏗️ Strong believer in **clean architecture** and good engineering practices
-- 📚 Currently grinding DSA on **LeetCode** via NeetCode
-- ⚡ Always shipping
+- ✨ Software Engineering student at **KNUST**, Ghana
+- 📱 Passionate about **Mobile App Development**
+- ⚡ Building beautiful, fast and scalable applications
+- 🚀 Currently learning **AI & Agentic Systems**
+- 💡 I enjoy building **real products** that solve real problems
 
 ---
 
 ## 🚀 Projects
 
-### 🏥 [ClinIQ](https://github.com/AnsahFredd/dart_flutter_projects/tree/main/cliniq)
-Hospital management system built with Flutter. Features full authentication flows, appointment booking, and doctor discovery with Firebase/Firestore integration.
-> Flutter · Dart · Firebase · BLoC · Clean Architecture
+### 🏥 ClinIQ
 
-### ⛽ [Cofuel](https://github.com/AnsahFredd/Cofuel)
-A fuel-related mobile application built with Flutter.
-> Flutter · Dart
+Hospital management system with full auth flows, appointment booking, and doctor discovery.
 
-### 🎓 [EduPlay](https://github.com/AnsahFredd/eduplay)
-An educational platform designed to make learning engaging and interactive.
-> Flutter · Dart
-
-### ⚖️ [LawLens](https://github.com/AnsahFredd/miniproject)
-A mini project providing legal information and insights to users.
-> Flutter · Dart
+https://github.com/AnsahFredd/dart_flutter_projects/tree/main/cliniq
 
 ---
 
-## 🛠️ Tech Stack
+### ⛽ Cofuel
+
+A fuel management mobile application built with Flutter.
+
+https://github.com/AnsahFredd/Cofuel
+
+---
+
+### 🎓 EduPlay
+
+An interactive educational platform designed to make learning fun and engaging.
+
+https://github.com/AnsahFredd/eduplay
+
+---
+
+### ⚖️ LawLens
+
+A mini project that provides users with accessible legal information and insights.
+
+https://github.com/AnsahFredd/miniproject
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -67,6 +90,14 @@ A mini project providing legal information and insights to users.
 <img src="https://streak-stats.demolab.com?user=AnsahFredd&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"/>
 
 </div>
+
+---
+
+## 🌐 Portfolio
+
+🚀 All projects
+
+https://github.com/AnsahFredd?tab=repositories
 
 ---
 
