@@ -2,15 +2,16 @@
 
 # 🚀 Fred Ansah
 
-### Mobile App Developer · Flutter Engineer · Software Engineering @ KNUST
+### Mobile App Developer · React Developer · Flutter Engineer · Software Engineering @ KNUST
 
 <br/>
 
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-blue?style=for-the-badge)
+![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logoColor=000)
 ![DEVELOPER](https://img.shields.io/badge/DEVELOPER-7c3aed?style=for-the-badge)
-![DART](https://img.shields.io/badge/DART-00B4D8?style=for-the-badge)
+![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge)
 ![ENGINEER](https://img.shields.io/badge/ENGINEER-brightgreen?style=for-the-badge)
-![CLEAN ARCH](https://img.shields.io/badge/CLEAN%20ARCH-orange?style=for-the-badge)
+![AI FOCUSED](https://img.shields.io/badge/AI%20FOCUSED-orange?style=for-the-badge)
 ![BUILDER](https://img.shields.io/badge/BUILDER-7c3aed?style=for-the-badge)
 
 </div>
@@ -19,10 +20,12 @@
 
 ## 🧑‍💻 About Me
 
-- ✨ Software Engineering student at **KNUST**, Ghana
-- 📱 Passionate about **Mobile App Development**
+- ✨ Final-year Software Engineering student at **KNUST**, Ghana
+- 📱 Passionate about **Mobile & Web App Development**
 - ⚡ Building beautiful, fast and scalable applications
-- 🚀 Currently learning **AI & Agentic Systems**
+- 🤖 Working on **AI-powered systems** — multi-agent clinical decision support & billing audit tools
+- 🏗️ Strong believer in **clean architecture** across every project I touch
+- 📚 Currently grinding DSA on **LeetCode** via NeetCode
 - 💡 I enjoy building **real products** that solve real problems
 
 ---
@@ -37,9 +40,9 @@ https://github.com/AnsahFredd/dart_flutter_projects/tree/main/cliniq
 
 ---
 
-### ⛽ Cofuel
+### 🎟️ Cofuel
 
-A fuel management mobile application built with Flutter.
+An event booking website where users can discover and book events seamlessly.
 
 https://github.com/AnsahFredd/Cofuel
 
@@ -55,7 +58,7 @@ https://github.com/AnsahFredd/eduplay
 
 ### ⚖️ LawLens
 
-A mini project that provides users with accessible legal information and insights.
+A legal web app where you can upload legal documents, get AI-powered summaries, search clauses, and get clause overviews — making legal content accessible to everyone.
 
 https://github.com/AnsahFredd/miniproject
 
@@ -97,14 +100,14 @@ https://github.com/AnsahFredd/miniproject
 
 🚀 All projects
 
-https://github.com/AnsahFredd?tab=repositories
+https://github.com/AnsahFredd/Portfolio
 
 ---
 
 ## 📬 Contact
 
 - 🐦 X (Twitter): [@ansfredd](https://x.com/ansfredd)
-- 💼 LinkedIn: [Fred Ansah](https://linkedin.com/in/ansfredd)
+- 💼 LinkedIn: [Fred Ansah](https://www.linkedin.com/in/ansah-fredrick-owusu-709654394)
 
 ---
 
