@@ -35,22 +35,16 @@
 Hospital management system with full auth flows, appointment booking, and doctor discovery.
 https://github.com/AnsahFredd/dart_flutter_projects/tree/main/cliniq
 
----
-
 ### 🎟️ Cofuel
 An event booking website where users can discover and book events seamlessly.
 https://github.com/AnsahFredd/Cofuel
-
----
 
 ### 🎓 EduPlay
 An interactive educational platform designed to make learning fun and engaging.
 https://github.com/AnsahFredd/eduplay
 
----
-
 ### ⚖️ LawLens
-A legal web app where you can upload legal documents, get AI-powered summaries, search clauses, and get clause overviews — making legal content accessible to everyone.
+A legal web app — upload legal documents, get AI-powered summaries, search clauses, and get clause overviews.
 https://github.com/AnsahFredd/miniproject
 
 ---
@@ -69,7 +63,7 @@ https://github.com/AnsahFredd/miniproject
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnsahFredd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnsahFredd&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9&count_private=true&include_all_commits=true" height="200"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnsahFredd&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" height="200"/>
 
@@ -81,13 +75,14 @@ https://github.com/AnsahFredd/miniproject
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnsahFredd&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&timezone=Africa/Accra" height="200"/>
+<img src="https://streak-stats.demolab.com?user=AnsahFredd&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&timezone=Africa/Accra" height="200"/>
 
 </div>
 
 ---
 
 ## 🌐 Portfolio
+
 🚀 All projects: https://github.com/AnsahFredd/Portfolio
 
 ---
